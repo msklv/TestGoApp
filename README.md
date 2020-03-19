@@ -1,5 +1,6 @@
 # TestGoApp
-Sample Go web application
+Sample Go web application [![Build Status](https://travis-ci.org/msklv/TestGoApp.svg?branch=master)](https://travis-ci.org/msklv/TestGoApp)
+
 
 ## Technology 
  - Платформа: Linux x86
