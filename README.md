@@ -21,5 +21,9 @@ Sample Go web application
  - Артефакт с контейнером доступен на докер-хабе
 
 
+# Docker 
+  - https://hub.docker.com/r/msklv/testgoapp
+
+
 ## License:
 See [LICENSE](LICENSE).
