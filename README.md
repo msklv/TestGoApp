@@ -1,5 +1,7 @@
-# TestGoApp
-Sample Go web application [![Build Status](https://travis-ci.org/msklv/TestGoApp.svg?branch=master)](https://travis-ci.org/msklv/TestGoApp)
+[![Build Status](https://travis-ci.org/msklv/TestGoApp.svg?branch=master)](https://travis-ci.org/msklv/TestGoApp)
+
+# TestGoApp 
+Sample Go web application 
 
 
 ## Technology 
@@ -10,7 +12,7 @@ Sample Go web application [![Build Status](https://travis-ci.org/msklv/TestGoApp
  - Артефакторий: https://hub.docker.com/
  
 ## Requirements
- - Исполняемый файл приложения стартует в докере, пробрасывающим наружу tcp-port
+ ✔✅ Исполняемый файл приложения стартует в докере, пробрасывающим наружу tcp-port
  - На порту висит http сервер, обрабатывающий запросы в REST
  - У сервера два метода POST: /hash и /distance
  - /hash принимает на вход объект json (массив объектов), содержащий URL изображения, и возвращает объект json, содержащий хеш перцептивного типа от полученного изображения (или массив таких объектов)
@@ -22,8 +24,11 @@ Sample Go web application [![Build Status](https://travis-ci.org/msklv/TestGoApp
  - Артефакт с контейнером доступен на докер-хабе
 
 
-# Docker 
+## Docker 
   - https://hub.docker.com/r/msklv/testgoapp
+
+## Travis CI
+ - https://travis-ci.org/github/msklv/TestGoApp
 
 
 ## License:
